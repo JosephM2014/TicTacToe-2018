@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="normalText">Normal mode (2 Players)</string>
+    <string name="ultimateText">Ultimate mode (Single player)</string>
+    <string name="ultimateText2">(5 * 5 board)</string>
+    <string name="aboutText">About</string>
+    <string name="exitText">Exit</string>
+
+    <string name="exit">exit_click</string>
+    <string name="about">about_click</string>
+    <string name="normal">normal_click</string>
+    <string name="ultimate">ultimate_click</string>
+    <string name="ultimate2">ultimate_click2</string>
+
+    <string name="aboutInformation">Welcome to the Tic Tac Toe game!
+	    							The current version of game consists only of two modes -
+
+                                    =Normal mode (2 players)-which represents a classic version of the game between 2 players.
+
+	    							=Ultimate mode (5 * 5 board)
+</string>
+
+    <string name="developerInfo">Developed by Joseph. 2018. All right reserved </string>
+
+    <string name="about_activity_label">Tic Tac Toe - About</string>
+</resources>
